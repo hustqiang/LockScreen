@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/LockScreen/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/LockScreen/app/build/intermediates/pre-dexed/debug/classes-05818d6004c15017787754f28ae3aa7b0cb8330a.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/LockScreen/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/LockScreen/app/build/intermediates/pre-dexed/debug/classes-9d0ac4db29186e528f260a8c3d937939ad29a5d1.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/LockScreen/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/LockScreen/app/build/intermediates/pre-dexed/debug/classes-0bb64bc16a42dd66ff8a17f457017af6b1c16a2c.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/LockScreen/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/LockScreen/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-1bd67693e35ad5858f258fe686ea83c7769b00e6.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/LockScreen/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/LockScreen/app/build/intermediates/pre-dexed/debug/classes-9c60c226cc244853213892dfb2bfdf88163bf8c5.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/LockScreen/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-f59ee5cd2c6a23f25dcc2e58f9200367b9497680.jar" />
+    </item>
+
+</items>
