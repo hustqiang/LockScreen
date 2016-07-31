@@ -17,12 +17,14 @@ public class MainAcitivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         super.onCreate(savedInstanceState);
-//        setContentView(R.layout.activity_main);
+        //start service
         Intent i=new Intent(DevicePolicyManager.ACTION_ADD_DEVICE_ADMIN);
         i.putExtra(DevicePolicyManager.EXTRA_DEVICE_ADMIN,new ComponentName(this,DeviceManager.class));
         startActivity(i);
         devicePolicyManager= (DevicePolicyManager) getSystemService(DEVICE_POLICY_SERVICE);
+        //lock screen
         devicePolicyManager.lockNow();
+        //finish the activity
         this.finish();
     }
 }
